@@ -2,8 +2,8 @@ package md.Management_Client.entity;
 
 public class Order {
     private Long id;
-    private String date;
     private double amount;
+    private String date;
     private Long idCustomer;
 
     public Order(Long id, String date, double amount, Long idCustomer) {
