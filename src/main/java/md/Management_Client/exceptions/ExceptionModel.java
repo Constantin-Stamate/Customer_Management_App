@@ -1,7 +1,6 @@
 package md.Management_Client.exceptions;
 
 public class ExceptionModel {
-
     private String timestamp;
     private Long status;
     private String error;
