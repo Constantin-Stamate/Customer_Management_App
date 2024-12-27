@@ -1,8 +1,8 @@
 package md.Management_Client.entity;
 
 public class Customer {
-    private Long id;
     private String name;
+    private Long id;
     private String email;
 
     public Customer(Long id, String name, String email) {
